@@ -5,6 +5,9 @@
   ## Description
   This is a simple SVG Logo Maker using Object Oriented Programming. The user can create a logo by entering a 3 character text, choose text color, select 1 of 3 shapes, and shape color.
 
+  # Screenshot
+  
+  (![screen shot of the working command line](screenShotSVGCommandLine.png))
 
   ## Table of Contents
   - [Installation](#installation)
